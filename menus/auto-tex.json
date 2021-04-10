@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Generate LaTex PDF",
+        "command": "auto-tex:generate"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "auto-tex",
+          "submenu": [
+            {
+              "label": "Generate LaTex PDF",
+              "command": "auto-tex:generate"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

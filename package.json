@@ -1,0 +1,18 @@
+{
+  "name": "auto-tex",
+  "main": "./lib/auto-tex",
+  "version": "0.0.0",
+  "description": "Automatically generate the LaTex PDF of the current .tex file",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "auto-tex:generate"
+  },
+  "repository": "https://github.com/JPeterson462/auto-tex",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
