@@ -4,6 +4,10 @@
       {
         "label": "Generate LaTex PDF",
         "command": "auto-tex:generate"
+      },
+      {
+        "label": "Finalize LaTex PDF",
+        "command": "auto-tex:finalize"
       }
     ]
   },
@@ -17,6 +21,10 @@
             {
               "label": "Generate LaTex PDF",
               "command": "auto-tex:generate"
+            },
+            {
+              "label": "Finalize LaTex PDF",
+              "command": "auto-tex:finalize"
             }
           ]
         }

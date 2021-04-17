@@ -6,7 +6,8 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "auto-tex:generate"
+    "atom-workspace": "auto-tex:generate",
+    "atom-workspace": "auto-tex:finalize"
   },
   "repository": "https://github.com/JPeterson462/auto-tex",
   "license": "MIT",

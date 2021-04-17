@@ -1,5 +1,6 @@
 {
   "atom-workspace": {
-    "ctrl-l": "auto-tex:generate"
+    "ctrl-l": "auto-tex:generate",
+    "ctrl-shift-l": "auto-tex:finalize"
   }
 }
